@@ -1,0 +1,1 @@
+image_processor = AutoImageProcessor.from_pretrained(model_path, use_fast=False)
