@@ -16,7 +16,7 @@ This repository contains a project for DeepFake Image Detection. The project is 
 
 - Achieved an accuracy of 97% on the Testing Set.
 - Model trained on Azure ML Studio notebooks, with a compute VM of 16 Core, 128 GB RAM for a period of 6 hours.
-- The model is available for use at: [DeepFake Image Detection Model](https://huggingface.co/sakshamkr1/deepfake_vit)
+
 
 ## Web Application
 
