@@ -56,6 +56,3 @@ This repository contains a project for DeepFake Image Detection. The project is 
 
 - [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929) by Dosovitskiy et al. (2020) for the Vision Transformer Model.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
