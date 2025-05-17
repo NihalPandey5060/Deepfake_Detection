@@ -38,7 +38,7 @@ This repository contains a project for DeepFake Image Detection. The project is 
 - Clone the repository using the following command:
 
     ```bash
-    git clone https://github.com/Polymath-Saksh/deepfake.git
+    git clone https://github.com/NihalPandey5060/deepfake.git
     ```
 
 - Install the required dependencies using the following command:
